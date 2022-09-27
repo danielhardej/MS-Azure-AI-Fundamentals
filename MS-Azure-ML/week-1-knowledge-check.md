@@ -31,7 +31,7 @@
 
 *Enable featurization causes Azure Machine Learning to automatically pre-process the features before training.*
 
-###3 In a residual histogram, what do residuals represent?
+#### In a residual histogram, what do residuals represent?
 
 - [ ] Variance between predicted and false values that can be explained by the model
 - [x] Variance between predicted and true values that cannot be explained by the model
