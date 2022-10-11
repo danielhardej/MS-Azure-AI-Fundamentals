@@ -1,5 +1,5 @@
 # Computer Vision in Microsoft Azure
-## Week 1 Quiz
+## Analyze images with the Computer Vision service - Knowledge Check Quiz
 
 #### Which capabilities listed below are covered by Computer Vision?
 
